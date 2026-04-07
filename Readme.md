@@ -6,17 +6,17 @@ Core Consulting nace de la especialización y el análisis crítico de nuestras 
 
 CO - Colaboración estratégica: Ana Marín & Valeria Mora
 
-RE - Retención y Diagnóstico: Janira Sánchez, Laura Mulero & Lorena Serra
+RE - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
 
 ## 🚀 Descripción del Proyecto
 Este proyecto de People Analytics ha sido diseñado para transformar datos crudos de Recursos Humanos en una herramienta estratégica de toma de decisiones. A través de la auditoría y limpieza de un dataset de 1,476 empleados, hemos identificado los patrones críticos que impulsan la rotación de personal en ABC Corporation, proponiendo un enfoque integral que equilibra la eficiencia operativa con el bienestar del capital humano.
 
-## 🛠️ Metodología de Datos (EDA & ETL)
+## 🛠️ Metodología de Datos (EDA)
 El proyecto aborda el ciclo de vida del dato con un enfoque de calidad total:
 
 Auditoría y Diagnóstico (EDA): Identificación de un 17.4% de nulos y eliminación de duplicados para garantizar una base de estudio única y veraz.
 
-Transformación y Limpieza (ETL): * Optimización de Estructura: Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
+Transformación y Limpieza :  Optimización de Estructura: Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
 
 Estandarización: Normalización de textos y corrección de errores tipográficos críticos.
 

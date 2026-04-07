@@ -1,7 +1,8 @@
-<img width="1024" height="1024" alt="logo_atomo" src="https://github.com/user-attachments/assets/265e7135-1438-402b-8d5a-486ef4374127" />
-
-
 📊 ABC CORPORATION: Human Capital Analytics
+
+<img width="800" height="200" alt="logo_atomo" src="https://github.com/user-attachments/assets/265e7135-1438-402b-8d5a-486ef4374127" />
+
+
 Data Analytics | Proyecto Final Módulo 3 | Equipo CORE CONSULTING
 
 👥 Nuestro Equipo

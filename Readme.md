@@ -20,7 +20,7 @@ El proyecto aborda el ciclo de vida del dato con un enfoque de calidad total:
 
 1. Auditoría y Diagnóstico (EDA): Identificación de un 17.4% de nulos y eliminación de duplicados para garantizar una base de estudio única y veraz.
 
-2. Transformación y Limpieza :  Optimización de Estructura: Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
+2. Transformación y Limpieza ( Optimización de Estructura): Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
 
 3. Estandarización: Normalización de textos y corrección de errores tipográficos críticos.
 

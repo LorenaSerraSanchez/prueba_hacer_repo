@@ -36,7 +36,7 @@ Análisis de la vulnerabilidad en perfiles Junior. Identificamos que la limitaci
 ## ⚖️ Análisis de Bienestar
 Detección de puntos de quiebre mediante el análisis de Horas Extra y Work-Life Balance. Los datos confirman que el agotamiento físico y la falta de flexibilidad incrementan significativamente la probabilidad de renuncia.
 
-<img width="500" height="4055" alt="image" src="https://github.com/user-attachments/assets/0c80f0a6-1467-4bba-a4f7-561539d6a22c" />  <img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/753b2f3a-5de5-49c6-bd8a-adb07793438e" />
+<img width="400" height="4055" alt="image" src="https://github.com/user-attachments/assets/0c80f0a6-1467-4bba-a4f7-561539d6a22c" />  <img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/753b2f3a-5de5-49c6-bd8a-adb07793438e" />
 
 
 ## 🔄 Diagnóstico de falta de promoción

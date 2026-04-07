@@ -29,7 +29,7 @@ El proyecto aborda el ciclo de vida del dato con un enfoque de calidad total:
 ## 📊 Dimensiones de Análisis Estratégico
 Hemos desarrollado tres ejes de visualización y consulta para resolver retos de negocio:
 
-## 💰 El Enfoque Económico
+## 💰 Estructura Salarial 
 Análisis de la vulnerabilidad en perfiles Junior. Identificamos que la limitación salarial y la falta de incentivos ligados al desempeño son los principales motores de salida en las primeras etapas de la carrera.
 
 ## ⚖️ El Termómetro de Bienestar
@@ -40,7 +40,7 @@ Detección de puntos de quiebre mediante el análisis de Horas Extra y Work-Life
 <img width="707" height="473" alt="image" src="https://github.com/user-attachments/assets/753b2f3a-5de5-49c6-bd8a-adb07793438e" />
 
 
-## 🔄 El Mapa de Retención Integral
+## 🔄 Diagnóstico de falta de promoción
 Un sistema de diagnóstico que cruza el estancamiento profesional (años sin promoción) con la satisfacción del entorno, permitiendo a la organización predecir fugas de talento clave.
 
 <img width="854" height="553" alt="image" src="https://github.com/user-attachments/assets/7024f4f6-9dfa-4f32-84dc-7194137f0ef1" />

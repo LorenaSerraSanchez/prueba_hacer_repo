@@ -33,6 +33,7 @@ Detección de puntos de quiebre mediante el análisis de Horas Extra y Work-Life
 
 ## 🔄 El Mapa de Retención Integral
 Un sistema de diagnóstico que cruza el estancamiento profesional (años sin promoción) con la satisfacción del entorno, permitiendo a la organización predecir fugas de talento clave.
+<img width="854" height="553" alt="image" src="https://github.com/user-attachments/assets/7024f4f6-9dfa-4f32-84dc-7194137f0ef1" />
 
 ## 📂 Estructura del Repositorio
 01_xxxxx: Dataset original en formato CSV proporcionado por ABC Corporation.

@@ -13,7 +13,8 @@ CO - Colaboración estratégica: Ana Marín & Valeria Mora
 RE - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
 
 ## 🚀 Descripción del Proyecto
-Este proyecto de People Analytics ha sido diseñado para transformar datos crudos de Recursos Humanos en una herramienta estratégica de toma de decisiones. A través de la auditoría y limpieza de un dataset de 1,476 empleados, hemos identificado los patrones críticos que impulsan la rotación de personal en ABC Corporation, proponiendo un enfoque integral que equilibra la eficiencia operativa con el bienestar del capital humano.
+Este proyecto de People Analytics ha sido diseñado para transformar datos crudos de Recursos Humanos en una herramienta estratégica de toma de decisiones.
+A través de la auditoría y limpieza de un dataset de 1,476 empleados, hemos identificado los patrones críticos que impulsan la rotación de personal en ABC Corporation, proponiendo un enfoque integral que equilibra la eficiencia operativa con el bienestar del capital humano.
 
 ## 🛠️ Metodología de Datos (EDA)
 El proyecto aborda el ciclo de vida del dato con un enfoque de calidad total:
@@ -32,7 +33,7 @@ Hemos desarrollado tres ejes de visualización y consulta para resolver retos de
 ## 💰 Estructura Salarial 
 Análisis de la vulnerabilidad en perfiles Junior. Identificamos que la limitación salarial y la falta de incentivos ligados al desempeño son los principales motores de salida en las primeras etapas de la carrera.
 
-## ⚖️ El Termómetro de Bienestar
+## ⚖️ Análisis de Bienestar
 Detección de puntos de quiebre mediante el análisis de Horas Extra y Work-Life Balance. Los datos confirman que el agotamiento físico y la falta de flexibilidad incrementan significativamente la probabilidad de renuncia.
 
 <img width="481" height="505" alt="image" src="https://github.com/user-attachments/assets/0c80f0a6-1467-4bba-a4f7-561539d6a22c" />

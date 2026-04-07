@@ -18,13 +18,13 @@ Este proyecto de People Analytics ha sido diseñado para transformar datos crudo
 ## 🛠️ Metodología de Datos (EDA)
 El proyecto aborda el ciclo de vida del dato con un enfoque de calidad total:
 
-Auditoría y Diagnóstico (EDA): Identificación de un 17.4% de nulos y eliminación de duplicados para garantizar una base de estudio única y veraz.
+1. Auditoría y Diagnóstico (EDA): Identificación de un 17.4% de nulos y eliminación de duplicados para garantizar una base de estudio única y veraz.
 
-Transformación y Limpieza :  Optimización de Estructura: Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
+2. Transformación y Limpieza :  Optimización de Estructura: Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
 
-Estandarización: Normalización de textos y corrección de errores tipográficos críticos.
+3. Estandarización: Normalización de textos y corrección de errores tipográficos críticos.
 
-Imputación Inteligente: Uso de mediana para variables numéricas (salarios, edad) y moda específica por puesto para variables operativas (BusinessTravel, OverTime).
+4. Imputación Inteligente: Uso de mediana para variables numéricas (salarios, edad) y moda específica por puesto para variables operativas (BusinessTravel, OverTime).
 
 ## 📊 Dimensiones de Análisis Estratégico
 Hemos desarrollado tres ejes de visualización y consulta para resolver retos de negocio:

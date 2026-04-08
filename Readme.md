@@ -49,8 +49,10 @@ Un sistema de diagnóstico que cruza el estancamiento profesional (años sin pro
 - Hr_clean.csv: CSV tras la depuración.
   
 **Carpeta SRC:**
-
-
+- _pycache_:
+- Clase_Bienestar.py
+- Soporte_visualizaciones.py
+  
 
 02_xxxxx: Documentación del proceso de transformación, gestión de nulos y estandarización.
 

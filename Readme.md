@@ -56,13 +56,15 @@ Un sistema de diagnóstico que cruza el estancamiento profesional (años sin pro
 04_Final_Report: Informe ejecutivo detallando los hallazgos de las Fases 1, 2 y 3.
 
 ## Herramientas y Tecnologías
-1. Python – Lenguaje principal para análisis y transformación de datos.
-2. Pandas – Manipulación y limpieza de datasets.
-3. NumPy – Cálculos estadísticos y manejo de datos numéricos.
-4. Matplotlib / Seaborn – Visualización de datos y análisis exploratorio.
-5. Jupyter Notebook – Documentación interactiva del análisis paso a paso.
-6. Git / GitHub – Control de versiones y repositorio del proyecto.
-7. Excel / CSV – Formato de entrada de los datos de Recursos Humanos.
+1. Excel / CSV – Formato de entrada de los datos de Recursos Humanos.
+3. Python – Lenguaje principal para análisis y transformación de datos.
+8. Jupyter Notebook – Documentación interactiva del análisis paso a paso.
+5. Archivos .py – Definición de clases, estructuración del código y modularización del proyecto.
+6. Pandas – Manipulación y limpieza de datasets.
+7. NumPy – Cálculos estadísticos y manejo de datos numéricos.
+8. Matplotlib / Seaborn – Visualización de datos y análisis exploratorio.
+9. SQL – Consulta, extracción y gestión de datos desde bases de datos relacionales.
+10. Git / GitHub – Control de versiones y repositorio del proyecto.
    
 ##  Conclusiones
 El análisis de Core Consulting ha permitido transformar filas de datos en una hoja de ruta para la sostenibilidad organizacional:

@@ -7,6 +7,7 @@
 Core Consulting nace de la especialización y el análisis crítico de nuestras integrantes:
 
 **CO** - Colaboración estratégica: Ana Marín & Valeria Mora
+#
 **RE** - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
 
 ##  Descripción del Proyecto

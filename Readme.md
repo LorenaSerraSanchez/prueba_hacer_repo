@@ -49,16 +49,18 @@ Un sistema de diagnóstico que cruza el estancamiento profesional (años sin pro
 - Hr_clean.csv: CSV tras la depuración.
   
 **Carpeta SRC:**
-- _pycache_:
-- Clase_Bienestar.py
-- Soporte_visualizaciones.py
+ _pycache_:
+- Clase_Bienestar.py : métodos para visualizaciones del foco satisfacción 
+- Soporte_visualizaciones.py : métodos para visualizaciones del foco economico
+
+**Externo: Fase 1 y 2_proyect_mod3.ipynb**
+- Documentación del proceso de transformación, gestión de nulos y estandarización.
   
+**Externo: Fase3.visualizaciones proyecto mod 3.ipynb**
+- Gráficos y dashboards que representan la correlación entre satisfacción, salario y rotación.
 
-02_xxxxx: Documentación del proceso de transformación, gestión de nulos y estandarización.
-
-03_xxxxx: Gráficos y dashboards que representan la correlación entre satisfacción, salario y rotación.
-
-04_Final_Report: Informe ejecutivo detallando los hallazgos de las Fases 1, 2 y 3.
+**Reporte:**
+- Informe ejecutivo detallando los hallazgos de las Fases 1, 2 y 3.
 
 ## Herramientas y Tecnologías
 1. Excel / CSV – Formato de entrada de los datos de Recursos Humanos.

@@ -1,17 +1,11 @@
 ##  Proyecto Final Módulo 3 | Equipo CORE CONSULTING
 📊 ABC CORPORATION
-
-
-<img width="300" height="900" alt="logo_atomo" src="https://github.com/user-attachments/assets/265e7135-1438-402b-8d5a-486ef4374127" />
-
-## 👥 Nuestro Equipo
 <img width="300" height="900" alt="logo_atomo" src="https://github.com/user-attachments/assets/efdb57ee-6275-45d5-9ec9-01aac565e7dc" />
 
-
+## 👥 Nuestro Equipo
 Core Consulting nace de la especialización y el análisis crítico de nuestras integrantes:
 
 CO - Colaboración estratégica: Ana Marín & Valeria Mora
-
 RE - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
 
 ##  Descripción del Proyecto

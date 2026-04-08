@@ -44,11 +44,11 @@ Un sistema de diagnóstico que cruza el estancamiento profesional (años sin pro
 <img width="854" height="553" alt="image" src="https://github.com/user-attachments/assets/7024f4f6-9dfa-4f32-84dc-7194137f0ef1" />
 
 ##  Estructura del Repositorio
-- Carpeta Files:
-**Hr.csv**: CSV RR.HH original proporcionado por ABC Corporation.
-**Hr_clean.csv**:CSV tras la depuración.
+**Carpeta Files:**
+- Hr.csv:CSV RR.HH original proporcionado por ABC Corporation.
+- Hr_clean.csv:CSV tras la depuración.
   
-- Carpeta SRC:
+**Carpeta SRC:**
 
 
 

@@ -1,4 +1,4 @@
-## 📊 ABC CORPORATION: Human Capital Analytics
+## 📊 ABC CORPORATION
 Proyecto Final Módulo 3 | Equipo CORE CONSULTING
 
 <img width="300" height="900" alt="logo_atomo" src="https://github.com/user-attachments/assets/265e7135-1438-402b-8d5a-486ef4374127" />

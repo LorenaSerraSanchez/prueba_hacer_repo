@@ -59,7 +59,7 @@ Un sistema de diagnóstico que cruza el estancamiento profesional (años sin pro
 **Externo: Fase3.visualizaciones proyecto mod 3.ipynb**
 - Gráficos y dashboards que representan la correlación entre satisfacción, salario y rotación.
 
-**Reporte:**
+**Externo: Reporte:**
 - Informe ejecutivo detallando los hallazgos de las Fases 1, 2 y 3.
 
 ## Herramientas y Tecnologías

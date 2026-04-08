@@ -12,15 +12,14 @@ CO - Colaboración estratégica: Ana Marín & Valeria Mora
 RE - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
 
 ##  Descripción del Proyecto
-Este proyecto ha sido diseñado para transformar datos crudos de Recursos Humanos en una herramienta estratégica de toma de decisiones.
-A través de la auditoría y limpieza de un dataset de 1,476 empleados, hemos identificado los patrones críticos que impulsan la rotación de personal en ABC Corporation, proponiendo un enfoque integral que equilibra la eficiencia operativa con el bienestar del capital humano.
+Este proyecto ha sido diseñado para transformar datos crudos de Recursos Humanos en una herramienta estratégica de toma de decisiones a través de la auditoría y limpieza de un dataset de 1,476 empleados, hemos identificado los patrones críticos que impulsan la rotación de personal en ABC Corporation, proponiendo un enfoque integral que equilibra la eficiencia operativa con el bienestar del capital humano.
 
 ##  Metodología de Datos (EDA)
 El proyecto aborda el ciclo de vida del dato con un enfoque de calidad total:
 
-1. Auditoría y Diagnóstico (EDA): Identificación de un 17.4% de nulos y eliminación de duplicados para garantizar una base de estudio única y veraz.
+1. Auditoría y Diagnóstico (EDA): Identificación de nulos y eliminación de duplicados para garantizar una base de estudio única y veraz.
 
-2. Transformación y Limpieza ( Optimización de Estructura): Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
+2. Transformación y Limpieza: Eliminación de ruido estadístico (columnas constantes como Over18 o StandardHours).
 
 3. Estandarización: Normalización de textos y corrección de errores tipográficos críticos.
 
@@ -66,6 +65,6 @@ El análisis de Core Consulting ha permitido transformar filas de datos en una h
 
 Sinergia de Factores: La rotación no es una causa aislada; responde a una combinación de estancamiento en el rol y exceso de carga laboral.
 
-Cultura de Datos: La etapa de "Auditoría de Salud de Datos" fue crucial. Aprendimos que sin una limpieza ética (etiquetado de "Desconocidos"), las decisiones de RR.HH. se basarían en sesgos e información inventada.
+Cultura de Datos: La etapa de "Auditoría de Salud de Datos" fue crucial. Aprendimos que sin una limpieza ética, las decisiones de RR.HH. se basarían en sesgos e información.
 
 Visión Estratégica: Al alinear la eficiencia operativa con condiciones laborales sostenibles, ABC Corporation no solo reduce costes de contratación, sino que fortalece su compromiso a largo plazo.

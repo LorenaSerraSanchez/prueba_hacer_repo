@@ -44,7 +44,13 @@ Un sistema de diagnóstico que cruza el estancamiento profesional (años sin pro
 <img width="854" height="553" alt="image" src="https://github.com/user-attachments/assets/7024f4f6-9dfa-4f32-84dc-7194137f0ef1" />
 
 ##  Estructura del Repositorio
-01_xxxxx: Dataset original en formato CSV proporcionado por ABC Corporation.
+- Carpeta Files:
+**Hr.csv**: CSV RR.HH original proporcionado por ABC Corporation.
+**Hr_clean.csv**:CSV tras la depuración.
+  
+- Carpeta SRC:
+
+
 
 02_xxxxx: Documentación del proceso de transformación, gestión de nulos y estandarización.
 

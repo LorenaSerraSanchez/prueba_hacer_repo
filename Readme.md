@@ -6,8 +6,8 @@
 ## 👥 Nuestro Equipo
 Core Consulting nace de la especialización y el análisis crítico de nuestras integrantes:
 
-CO - Colaboración estratégica: Ana Marín & Valeria Mora
-RE - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
+**CO** - Colaboración estratégica: Ana Marín & Valeria Mora
+**RE** - Retención y Diagnóstico:  Janira Sánchez, Laura Mulero & Lorena Serra
 
 ##  Descripción del Proyecto
 Este proyecto ha sido diseñado para transformar datos crudos de Recursos Humanos en una herramienta estratégica de toma de decisiones a través de la auditoría y limpieza de un dataset de 1,476 empleados, hemos identificado los patrones críticos que impulsan la rotación de personal en ABC Corporation, proponiendo un enfoque integral que equilibra la eficiencia operativa con el bienestar del capital humano.

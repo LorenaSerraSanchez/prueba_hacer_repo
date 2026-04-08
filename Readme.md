@@ -1,5 +1,6 @@
 ##  Proyecto Final Módulo 3 | Equipo CORE CONSULTING
 📊 ABC CORPORATION
+
 <img width="250" height="850" alt="logo_atomo" src="https://github.com/user-attachments/assets/efdb57ee-6275-45d5-9ec9-01aac565e7dc" />
 
 ## 👥 Nuestro Equipo

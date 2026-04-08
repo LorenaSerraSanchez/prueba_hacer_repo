@@ -32,6 +32,9 @@ Hemos desarrollado tres ejes de visualización y consulta para resolver retos de
 ##  Estructura Salarial 
 Análisis de la vulnerabilidad en perfiles Junior. Identificamos que la limitación salarial y la falta de incentivos ligados al desempeño son los principales motores de salida en las primeras etapas de la carrera.
 
+![rotación_sueldo](https://github.com/user-attachments/assets/8ec46934-d530-4917-b003-fc8b7f54d374)         ![overtime_sueldo](https://github.com/user-attachments/assets/1bf9de9b-3521-4f76-8a83-7128ddca19ea)
+
+
 ##  Análisis de Bienestar
 Detección de puntos de quiebre mediante el análisis de Horas Extra y Work-Life Balance. Los datos confirman que el agotamiento físico y la falta de flexibilidad incrementan significativamente la probabilidad de renuncia.
 
